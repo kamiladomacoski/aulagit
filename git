@@ -1,3 +1,5 @@
+import python.util.ArrayList;
+import python.util.Scanner;
 to-do-list-app/
 ├── index.html       # Estrutura HTML do aplicativo
 ├── style.css        # Estilos do aplicativo
